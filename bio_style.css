@@ -1,0 +1,21 @@
+html {
+    background: white;
+}
+
+h1{
+    text-align: center
+}
+
+body {
+	font-family: Helvetica;
+	color:black;
+    margin-left: 2.5%
+}
+
+h1{
+    line-height: 2.5;
+}
+
+p{
+    line-height: 1.5
+}

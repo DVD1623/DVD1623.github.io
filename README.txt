@@ -1,0 +1,1 @@
+The html files including index.html, resume.html and bio.html are all set up and passed the test online by Jiawen Hou. Requirements from Ming were all met, if all acknowledged. Worked alone throughout the assignment. Approximately 3 hours were spent trying to write the lines and fixing the errors, and searching online for answers. 
